@@ -1,0 +1,2 @@
+- Alex Luong
+- Small, fun Memory Game created using Javascript and jQuery
